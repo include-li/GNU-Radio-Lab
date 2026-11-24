@@ -1,0 +1,21 @@
+{
+  "started_at": "2026-11-24T00:06:43+08:00",
+  "frequency_mhz": 106.1,
+  "duration_seconds": 180.0,
+  "web_channel": "https://apicnrapp.cnr.cn/html/play.html?channelId=1",
+  "player": "FFmpeg HLS",
+  "hls_live_start_index": -3,
+  "clock": "stereo audio output clock",
+  "per_input_preroll_seconds": 0.2,
+  "audio_output_events": 0,
+  "input_buffer_events": {
+    "sdr_left": {
+      "missing_frames": 0,
+      "dropped_frames": 0
+    },
+    "cnr_right": {
+      "missing_frames": 0,
+      "dropped_frames": 0
+    }
+  }
+}

@@ -1,0 +1,7 @@
+gr-osmosdr 0.2.0.0 (0.2.0) gnuradio 3.10.12.0
+built-in source types: file rtl rtl_tcp uhd miri hackrf bladerf airspy airspyhf soapy redpitaya
+Using device #0 Realtek RTL2838UHIDIR SN: 00000001
+Found Rafael Micro R820T tuner
+Enabled direct sampling mode, input 2
+[R82XX] PLL not locked!
+Disabled direct sampling mode

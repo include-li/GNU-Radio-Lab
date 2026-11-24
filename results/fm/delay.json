@@ -1,0 +1,163 @@
+{
+  "sign_convention": "positive = web playback later than SDR playback",
+  "window_seconds": 8,
+  "search_limit_seconds": 60,
+  "sdr_duration_seconds": 180.0,
+  "web_duration_seconds": 180.0,
+  "matched_windows": 14,
+  "windows": [
+    {
+      "sdr_start_seconds": 1.0,
+      "delay_seconds": 32.36025,
+      "correlation": 0.8119952421659699,
+      "peak_margin": 0.7671539970284,
+      "accepted": true,
+      "in_consensus": true
+    },
+    {
+      "sdr_start_seconds": 11.0,
+      "delay_seconds": 32.360125,
+      "correlation": 0.8328550329263652,
+      "peak_margin": 0.7902965174987471,
+      "accepted": true,
+      "in_consensus": true
+    },
+    {
+      "sdr_start_seconds": 21.0,
+      "delay_seconds": 32.36,
+      "correlation": 0.8473696671866056,
+      "peak_margin": 0.7977266392562782,
+      "accepted": true,
+      "in_consensus": true
+    },
+    {
+      "sdr_start_seconds": 31.0,
+      "delay_seconds": 32.3595,
+      "correlation": 0.880351098202605,
+      "peak_margin": 0.8375714258091639,
+      "accepted": true,
+      "in_consensus": true
+    },
+    {
+      "sdr_start_seconds": 41.0,
+      "delay_seconds": 32.35975,
+      "correlation": 0.6458374409387152,
+      "peak_margin": 0.6045624291778031,
+      "accepted": true,
+      "in_consensus": true
+    },
+    {
+      "sdr_start_seconds": 51.0,
+      "delay_seconds": 32.359875,
+      "correlation": 0.806965398153872,
+      "peak_margin": 0.7681043837113853,
+      "accepted": true,
+      "in_consensus": true
+    },
+    {
+      "sdr_start_seconds": 61.0,
+      "delay_seconds": 32.359875,
+      "correlation": 0.6225612983606729,
+      "peak_margin": 0.5839808464092611,
+      "accepted": true,
+      "in_consensus": true
+    },
+    {
+      "sdr_start_seconds": 71.0,
+      "delay_seconds": 32.35975,
+      "correlation": 0.9034887665999628,
+      "peak_margin": 0.8610509640753142,
+      "accepted": true,
+      "in_consensus": true
+    },
+    {
+      "sdr_start_seconds": 81.0,
+      "delay_seconds": 32.359625,
+      "correlation": 0.893548029263747,
+      "peak_margin": 0.8553973897647238,
+      "accepted": true,
+      "in_consensus": true
+    },
+    {
+      "sdr_start_seconds": 91.0,
+      "delay_seconds": 32.3595,
+      "correlation": 0.8726006476759239,
+      "peak_margin": 0.830200480417801,
+      "accepted": true,
+      "in_consensus": true
+    },
+    {
+      "sdr_start_seconds": 101.0,
+      "delay_seconds": 32.359375,
+      "correlation": 0.8872111366457174,
+      "peak_margin": 0.8350943125960233,
+      "accepted": true,
+      "in_consensus": true
+    },
+    {
+      "sdr_start_seconds": 111.0,
+      "delay_seconds": 32.359625,
+      "correlation": 0.8224220103490293,
+      "peak_margin": 0.7822949380273498,
+      "accepted": true,
+      "in_consensus": true
+    },
+    {
+      "sdr_start_seconds": 121.0,
+      "delay_seconds": 32.359375,
+      "correlation": 0.8933441645641599,
+      "peak_margin": 0.8540670863288171,
+      "accepted": true,
+      "in_consensus": true
+    },
+    {
+      "sdr_start_seconds": 131.0,
+      "delay_seconds": 32.359375,
+      "correlation": 0.8762801406427364,
+      "peak_margin": 0.838028424950439,
+      "accepted": true,
+      "in_consensus": true
+    },
+    {
+      "sdr_start_seconds": 141.0,
+      "delay_seconds": 0.960625,
+      "correlation": 0.03924120612895374,
+      "peak_margin": 0.002936996088043785,
+      "accepted": false,
+      "in_consensus": false
+    },
+    {
+      "sdr_start_seconds": 151.0,
+      "delay_seconds": 13.08725,
+      "correlation": -0.039736827458495105,
+      "peak_margin": 0.0024947971757306037,
+      "accepted": false,
+      "in_consensus": false
+    },
+    {
+      "sdr_start_seconds": 161.0,
+      "delay_seconds": -5.4955,
+      "correlation": -0.03845205272538222,
+      "peak_margin": 0.0011649851600676678,
+      "accepted": false,
+      "in_consensus": false
+    },
+    {
+      "sdr_start_seconds": 171.0,
+      "delay_seconds": -11.354875,
+      "correlation": 0.045242107204992305,
+      "peak_margin": 0.0071278038898533805,
+      "accepted": false,
+      "in_consensus": false
+    }
+  ],
+  "status": "matched",
+  "median_delay_seconds": 32.3596875,
+  "min_delay_seconds": 32.359375,
+  "max_delay_seconds": 32.36025,
+  "median_abs_correlation": 0.8599851574312647,
+  "recording": "results\\fm\\cnr-1061.wav",
+  "sdr_track": 0,
+  "web_track": 0,
+  "stereo_left_sdr_right_web": true
+}

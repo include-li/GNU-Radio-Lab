@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "dsb-sc",
+    "ExitCode": 0
+  },
+  {
+    "Name": "am",
+    "ExitCode": 0
+  },
+  {
+    "Name": "fm",
+    "ExitCode": 0
+  },
+  {
+    "Name": "receiver-synthetic",
+    "ExitCode": 0
+  },
+  {
+    "Name": "delay-synthetic",
+    "ExitCode": 0
+  },
+  {
+    "Name": "delay-recording",
+    "ExitCode": 0
+  },
+  {
+    "Name": "rf-recording",
+    "ExitCode": 0
+  }
+]

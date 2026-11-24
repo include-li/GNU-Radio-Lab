@@ -1,0 +1,14 @@
+{
+  "alignment_samples": 42.0,
+  "correlation": 0.9999839297252603,
+  "normalized_rmse": 0.005994762759655714,
+  "tone_gain_db": {
+    "1000": 0.0027895210329352575,
+    "4000": -0.0004114306114667141,
+    "10000": -0.14480808988215765
+  },
+  "rf_sample_rate_hz": 240000000,
+  "carrier_hz": 100000000,
+  "spectral_centroid_hz": 99999999.99937445,
+  "passed": true
+}
